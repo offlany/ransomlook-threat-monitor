@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite3
+*.db
+*.log
+local-state.json
+state.json
+ransomlook_hu_state.json
